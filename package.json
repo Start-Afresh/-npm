@@ -10,5 +10,9 @@
   "description": "",
   "bin": {
     "start": "./index.js"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Start-Afresh/-npm.git"
+}
 }
